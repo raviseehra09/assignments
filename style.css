@@ -1,0 +1,27 @@
+main{
+    height: 1300px;
+}
+#main_heading{
+    padding-bottom: 15px;
+}
+#inner{
+    background-color: bisque;
+}
+#heading{
+    text-align: center;
+    font-size: larger;
+    padding-top: 10px;
+}
+#content{
+    margin: 15px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+li{
+    text-align: center;
+    border-left: solid black 1px;
+    border-right: solid black 1px;
+    border-bottom: solid rgb(22, 22, 22) 1px;
+}
+
+ 
